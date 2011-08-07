@@ -167,17 +167,17 @@ D:You are one of two children of a Dragon
 N:16:17:100:60
 D:You are the only child of a Dragon 
 
-N:17:18:10:60
+N:17:57:10:60
 D:Thief.  
-N:17:18:25:75
+N:17:57:55:75
 D:Warrior.  
-N:17:18:75:90
+N:17:57:75:90
 D:Miner.  
-N:17:18:90:110
+N:17:57:90:110
 D:Hoarder.  
-N:17:18:99:130
+N:17:57:99:130
 D:Noble.  
-N:17:18:100:150
+N:17:57:100:150
 D:Tyrant.  
 
 N:18:57:15:40
@@ -197,8 +197,6 @@ D:and your mother was a Pegasus
 
 N:21:14:100:50
 D:and your mother was a Unicorn 
-
-
 
 N:22:62:5:60
 D:Cook.  
@@ -228,22 +226,22 @@ N:24:25:100:55
 D:a litter of 6 pups. 
 
 N:25:26:25:60
-D:Your father was a farmer, 
+D:Your father was a Farmer 
 N:25:26:50:65
-D:Your father was a guard, 
+D:Your father was a Guard 
 N:25:26:75:75
-D:Your father was a gem hunter, 
+D:Your father was a Gem Hunter 
 N:25:26:95:95
-D:Your father was a gem merchant, 
+D:Your father was a Gem Merchant 
 N:25:26:100:100
-D:Your father was the tribal chief, 
+D:Your father was the Tribal Chief 
 
 N:26:67:20:55
-D:and your mother was a farmer. 
+D:and your mother was a Farmer. 
 N:26:67:95:60
-D:and your mother was a cook. 
+D:and your mother was a Cook. 
 N:26:67:100:75
-D:and your mother was a gem merchant. 
+D:and your mother was a Gem merchant. 
 
 N:50:51:10:50
 D:You have gold eyes, 
