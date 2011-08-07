@@ -24,7 +24,7 @@
 # Pony Chart progression by race:
 #   Earth Pony    -->  1 -->  2 -->  3 --> 50 --> 51 --> 52 --> 53
 #                 -->  4 -->  1 -->  2 -->  3 --> 50 --> 51 --> 52 --> 53
-#   Gryphon       -->  5 -->  6 -->  9 --> 54 --> 55 --> 56
+#   Griffon       -->  5 -->  6 -->  9 --> 54 --> 55 --> 56
 #                 -->  7 -->  8 -->  9 --> 54 --> 55 --> 56
 #   Pegasus       --> 10 --> 11 -->  3 --> 50 --> 51 --> 52 --> 53
 #   Unicorn       --> 13 --> 14 -->  3 --> 50 --> 51 --> 52 --> 53
@@ -94,12 +94,8 @@ D:You are one of several children
 N:5:6:100:55
 D:You are the only child 
 
-N:6:9:40:40
-D:of an Avarin 
-N:6:9:70:50
-D:of a Nandorin 
 N:6:9:100:60
-D:of a Sindarin 
+D:of a Griffonian 
 
 N:7:8:60:50
 D:You are one of several children 
@@ -113,18 +109,18 @@ D:of a Noldorin
 N:8:9:100:60
 D:of a Vanyarin 
 
-N:9:54:40:80
-D:Ranger.  
-N:9:54:70:90
-D:Archer.  
-N:9:54:87:110
-D:Warrior.  
+N:9:54:20:80
+D:Explorer.  
+N:9:54:50:90
+D:Flight Instructor.  
+N:9:54:75:110
+D:Traveling Merchant.  
 N:9:54:95:125
-D:Mage.  
+D:Warrior.  
 N:9:54:99:140
-D:Prince.  
+D:Ambassador.  
 N:9:54:100:145
-D:King.  
+D:Noble.  
 
 N:10:11:50:45
 D:You are one of several children of a Pegasus 
@@ -314,25 +310,27 @@ N:53:0:100:50
 D:and a white coat.
 
 N:54:55:85:50
-D:You have light grey eyes, 
+D:You have copper eyes, 
 N:54:55:95:50
-D:You have light blue eyes, 
+D:You have silver eyes, 
 N:54:55:100:50
-D:You have light green eyes, 
+D:You have golden eyes, 
 
-N:55:56:75:50
-D:straight 
+N:55:56:65:50
+D:a brown coat and wings, and 
+N:55:56:90:50
+D:a grey coat and wings, and 
 N:55:56:100:50
-D:wavy 
+D:a black coat and wings, and 
 
-N:56:0:75:50
-D:black hair, and a fair complexion.
-N:56:0:85:50
-D:brown hair, and a fair complexion.
+N:56:0:35:50
+D:white feathers with purple accents.
+N:56:0:65:50
+D:white feathers with teal accents.
 N:56:0:95:50
-D:blond hair, and a fair complexion.
+D:black feathers with silver accents.
 N:56:0:100:50
-D:silver hair, and a fair complexion.
+D:black feathers with red accents.
 
 N:57:58:45:50
 D:You have green eyes, 
